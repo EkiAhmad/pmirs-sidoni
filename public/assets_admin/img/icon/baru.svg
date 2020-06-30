@@ -1,0 +1,20 @@
+<svg id="marker-current" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="56" height="66" viewBox="0 0 56 66">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_579" data-name="Rectangle 579" width="56" height="66"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 52 61">
+      <image width="52" height="61" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADQAAAA9CAYAAADid0ojAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADiElEQVRogc2a63KrMAyEN7fz/s/bNqU/TpQu65UxYFN2hjHtBKIPXSybXNBPFxn1nDWZ88l9cKsRe6+/mHMHCMwBJvM3f2a17huvc8ZfZVSw0CTHt4zOe81aC6Qg18rhoBxMdmwCWwOk3rgCuNFxpZE9BcyBYmTPPGl80t/fWBmGrUAZyJ1GBXJ55PKHgb5e5zEyWBNUCxDDhPF8sJc0h2pioPvL+BuNX3SgFWoJSL0SEA8B0rwB2oDwum6i73ia+13gw3AVkHrmQYfCLJXq7P6TjLUCE6rmVAYUxkUoBci/Bpg14gcQIajV0d33+RoLKAfkciZgwjsK00NxLwcV0mIS/3ur5qEs1EbA6Hfj9R0sncN0EgZQArF3uAAcBcN2AHMo7Sxsq3STG0USBkyE2QPz0jwSJqQFJsIRKNskC7SUN67ijJbr3Kthp3GqUNzWHA2jNrkOpbDpShdpdbtlF/2Rara90+C6cMFRRWBJ2cMuHrgDqs3Sfy1n4+xhu3WLgzkDFNuSrr00h7IF2llUe/A2h/TDZ1X60DOgM4Waim0rIsh5wc3QZ1FmW+GhM0NksjYHkHatXTb9Bkv7uAnIW3R3wRm0aJtrz7NNv7OotoyYhRxv/KULqBPIbVS+bY0dF8gHnjgfWLaXN9uMZA8xjNvkO4NqNk7A7wJPJ6vWjfejpA/8E/83ID/xCwWgXLG6RvWvuwcNswBhmMJDTg7waKgaTOEdYBvQUVAOhoG+YKYXBXJGumZwNNSSZxhmppqHVEd5qgVGp5W3WoD4gtFQGcwHyryx8+MS0FI/1xOKYTRfGOaJBAZY5yG+ic5Je6Hi3mGweobf6FU7l9Ycym7iPLQWysFwiIW3mhrmNUWBv5y1J6dczjDMYs6o1gKpIc47rVAuZwLmAwvVLNNWINXa6rerNNe0F0iLRNb/ZddmFW0TDNDPQ4AHAkoo9U4Xz4R6AgF+ueGA3MS5GwboD5Rt0QaUFgKea3bDAH2LAjBfGGa/MYg5J4B4nqn+qKJFPYBc6c5ed6h30nXNVo0IOV3Cs5cmzD3T1J+tUe+Q0/LNHuJQY6hu3gH6eyjkPKThtqpHa1XveYjPtcppuIV3uu75jfAQVzx+caZ7A929A4wpCnzuqhsXg+47sqNyKOsOONSGvBAYGXIs/aHs7gk00ygPsfRNQfHGoKdGbhbWmtNhbzRG737WFnhD9APlru7UrEs5QAAAAABJRU5ErkJggg=="/>
+    </pattern>
+  </defs>
+  <rect id="Map_marker_current" width="56" height="66" fill="none"/>
+  <g id="Group_988" data-name="Group 988" clip-path="url(#clip-path)">
+    <circle id="Oval-3" cx="2" cy="2" r="2" transform="translate(26 62)" fill="#00a0ce"/>
+    <g id="Combined-Shape">
+      <rect id="Rectangle_578" data-name="Rectangle 578" width="52" height="60.906" transform="translate(2)" fill="url(#pattern)"/>
+      <path id="Path_579" data-name="Path 579" d="M21.175,44.762C17.508,39.059,6,33.722,6,24.053a22,22,0,0,1,44,0c0,9.669-11.508,15.006-15.175,20.709a114.772,114.772,0,0,0-5.953,11.586.96.96,0,0,1-1.743,0,115.086,115.086,0,0,0-5.954-11.585Z" fill="#fff" fill-rule="evenodd"/>
+    </g>
+    <path id="Combined-Shape1" d="M21.64,43.775C18.223,38.46,7.5,33.487,7.5,24.477a20.5,20.5,0,0,1,41,0c0,9.01-10.723,13.983-14.14,19.3a105.111,105.111,0,0,0-5.454,10.59,1,1,0,0,1-1.812,0A105.111,105.111,0,0,0,21.64,43.775Z" fill="#00a0ce" stroke="#fff" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="1.2" fill-rule="evenodd"/>
+    <path id="Rectangle-9-Copy" d="M28,17.973a6,6,0,1,0,6,6A6,6,0,0,0,28,17.973Z" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

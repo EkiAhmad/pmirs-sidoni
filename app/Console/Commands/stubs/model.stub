@@ -1,0 +1,13 @@
+<?php
+namespace DummyNamespace;
+use Illuminate\Database\Eloquent\Model;
+class DummyClass extends Model
+{
+    //
+    protected $connection = 'mysql';
+    protected $table = 'DummyClass'; //nama table yang kita buat lewat migration adalah todo
+    protected $primaryKey  = 'DummyClass_id';
+    public $incrementing = false; //false if varchar, true is increment
+    protected $fillable = [''];
+    protected $hidden = [];
+}

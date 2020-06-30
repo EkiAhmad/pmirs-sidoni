@@ -1,0 +1,129 @@
+.mainmenu {
+    float: right;
+}
+
+.appao-btn .fa {
+    font-size: 40px;
+    padding-top: 6px;
+}
+
+.appao-btn .sekarang-txt {
+    display: block;
+}
+
+.appao-btn .download-button {
+    display: block;
+    border: none;
+    margin: 0 5px;
+    padding: 5px 5px 5px;
+}
+
+.header.sticky .mainmenu li a.appao-btn,
+.mainmenu li a.appao-btn,
+.appao-btn {
+    border: 1px solid #fff;
+    color: #fff;
+    border-radius: 5px;
+    padding: 6px 25px;
+    display: inline-flex;
+    text-transform: uppercase;
+    cursor: pointer;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.contact-area {
+    background: url(../img/base.png) no-repeat center / cover;
+    position: relative;
+    z-index: 1;
+    padding-top: 90px;
+    background-attachment: fixed;
+    padding-bottom: 35px;
+}
+
+.contact-area .sec-title h2 .sec-title-border span::before {
+    background-color: #fff;
+}
+
+.contact-area::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #000529;
+    /* Old browsers */
+    background: -moz-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #000529 1%, #002055 24%, #005db5 67%, #0074d9 100%);
+    opacity: 0.1;
+    z-index: -1;
+}
+
+.contact-address .contact-address-info {
+    padding-top: 7px;
+}
+
+/*home*/
+
+.img-sidoni {
+    max-width: 50%;
+    position: absolute;
+    right: 0;
+    margin-top: -15%;
+}
+
+a .appao-btn .btn-join:hover {
+    background: #fff;
+}
+
+.icon-header-sidoni {
+    max-width: 80%;
+    margin-top: -10px;
+}
+.mobile-icon{
+    display: none;
+}
+.video-area{
+    padding-top: 90px; 
+    padding-bottom: 35px;
+}
+/*end home*/
+@media screen and (max-width: 600px){
+    .single-feature-box li{
+        display: block !important;
+    }
+    .mobile-icon{
+        display: block;
+    }
+    .feature-box-icon {
+        margin-bottom: 15px;
+    }
+    .desktop-icon{
+        display: none;
+    }
+    .hero-area-content h1{
+        text-align: center;
+        line-height: 2.3rem;
+    }
+    .hero-area-content p{
+        text-align: center;
+    }
+    .hero-area-content .appao-btn {
+        padding: 5px 17px !important;
+    }
+    .appao-btn{
+        font-size: 12px;
+    }
+    .img-sidoni {
+        max-width: 45%;
+        margin-top: -3%;
+    }
+    .video-area {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+}

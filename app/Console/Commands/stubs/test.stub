@@ -1,0 +1,32 @@
+<?php
+use Illuminate\Foundation\Testing\WithFaker;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+
+class DummyClass extends TestCase
+{
+    /**
+     * A basic feature test example.
+     *
+     * @return void
+     */
+
+    var $key = 'PMI-API-KEY';
+    var $value = 'erpepsimprpimaiy';
+
+    public function testExample()
+    {
+        //$post = [];
+        //$response = $this->get("{url-nya}", [$this->key => $this->value]);
+        // $response = $this->post("url-nya", $post, [$this->key => $this->value]);
+        $response->assertResponseStatus(200);
+        $response->seeJsonStructure([
+                                        'response' =>[
+                                                        'message',
+                                                        'status',
+                                                        'status_msg'
+                                        ],
+                                        'param',
+                                        'result'
+                                    ]);
+    }
+}
